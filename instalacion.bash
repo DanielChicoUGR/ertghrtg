@@ -97,9 +97,9 @@ sudo unzip Iosevka.zip -d /usr/share/fonts/iosevka/
 rm Iosevka.zip
 
 #Descarga del Vault de Obsidian
-git clone git@github.com:DanielChicoUGR/docu.git $HOME/Documentos/documentacion
+# git clone git@github.com:DanielChicoUGR/docu.git $HOME/Documentos/documentacion
 
-git clone git@github.com:DanielChicoUGR/ideas_projects.git $HOME/Documentos/ideas
+# git clone git@github.com:DanielChicoUGR/ideas_projects.git $HOME/Documentos/ideas
 
 #Instalacion y generacion de auto-cpufreq
 sudo snap install auto-cpufreq
